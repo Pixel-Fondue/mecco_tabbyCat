@@ -116,6 +116,4 @@ class CMD_tabbyCat_tabKey(lxu.command.BasicCommand):
 
           lx.eval('select.deleteSet originalSel')
 
-
-
 lx.bless(CMD_tabbyCat_tabKey, NAME_CMD_tabKey)
